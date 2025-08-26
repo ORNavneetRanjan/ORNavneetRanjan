@@ -13,6 +13,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 **B.Tech CSE** @ Bennett University (2022–2026) — **CGPA: 9.53/10**
+- 🏅 **Dean’s List Award (x2)** — SGPA: **10.0 (2nd Sem)** & **9.89 (4th Sem)**
 - 💡 Passionate about **AI, Machine Learning, and Full-Stack Development**
 - 🧠 Exploring **Generative AI**, **LLMs**, and **real-world problem solving**
 - 🌱 Currently building scalable tools that blend innovation with impact
@@ -41,10 +42,15 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=api&logoColor=white)
 
-**AI & ML**  
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF4500?style=flat-square&logo=opencv&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=flat-square&logo=openai&logoColor=white)
+**AI & ML Frameworks**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
@@ -74,7 +80,8 @@
 ### 🏆 Achievements
 - 📰 Published Research: *Complaint Categorization Using Image Captioning and GenAI* — **ICICC 2025**  
 - 🧠 Solved **500+ DSA problems** on LeetCode  
-- 🥇 Ranked in top **5% of coding contests** on LeetCode
+- 🥇 Ranked in top **5% of coding contests** on LeetCode  
+- 🏅 **Dean’s List Award (x2)** for academic excellence
 
 ---
 
