@@ -11,28 +11,16 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 **B.Tech CSE** @ Bennett University (2022–2026) — **CGPA: 9.53/10**
-- 🏅 **Dean’s List Award (x2)** — SGPA: **10.0 (2nd Sem)** & **9.89 (4th Sem)**
-- 💡 Passionate about **AI, Machine Learning, and Full-Stack Development**
-- 🧠 Exploring **Generative AI**, **LLMs**, and **real-world problem solving**
-- 🌱 Currently building scalable tools that blend innovation with impact
+### 🧑‍💻 About Me  
+- 🎓 **B.Tech CSE** @ Bennett University (2022–2026) — **CGPA: 9.53/10**  
+- 🏅 **Dean’s List Award (x2)** — SGPA: **10.0 (2nd Sem)** & **9.89 (4th Sem)**  
+- 💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
+- 🧠 Exploring **Generative AI**, **LLMs**, and **real-world problem solving**  
+- 🌱 Currently building scalable tools that blend innovation with impact  
 
 ---
 
-### 💼 Work Experience  
-
-**AI/ML & Full-Stack Developer Intern** — *Edunet Foundation (IBM SkillsBuild)*  
-📍 Remote | 🗓️ **May 2024 – Jul 2024**  
-
-- Developed an **AI-powered complaint management system** (*Rail Madad*) using **Image Captioning + Generative AI**  
-- Integrated **EfficientNet-B0** for computer vision and caption generation  
-- Designed **REST APIs** and a **MongoDB-powered backend** for automated complaint categorization  
-- Built a responsive **frontend** with **React.js + Tailwind CSS**  
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -66,31 +54,42 @@
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Experience  
+
+#### **Full Stack Software Engineering Trainee** — *DevsLane (Escecion Technologies Pvt. Ltd.)*  
+📅 **June 2024 – September 2024**  
+📍 Remote | [📜 Certificate](https://drive.google.com/file/d/1DP8hzIVnzua1eg57UYBleYh153vkQGIW/view?usp=sharing)  
+
+- Built a **high-performance e-commerce platform** using **React.js, Redux, and TypeScript**  
+- Enhanced **UI responsiveness**, **state management**, and **code modularity**  
+- Gained hands-on experience in **scalable architecture** and **frontend best practices**  
+
+---
+
+### 🚀 Featured Projects  
 
 #### 🔹 **Rail Madad** — *AI-powered Complaint Management Platform*  
 [🔗 Live Project](https://railsuraksha.netlify.app/)  
-- Built for **Indian Railways** to automate complaint classification  
+- Developed for **Indian Railways** to automate complaint classification  
 - Used **Transformers + EfficientNet-B0** for image captioning  
-- Integrated **Generative AI** for real-time alerting and complaint insights  
-- **Tech Stack:** React.js • Python (ML) • MongoDB • Node.js • Express.js • PNR API
+- Integrated **Generative AI** for real-time alerting and description refinement  
+- **Tech Stack:** React.js • Python (ML) • MongoDB • Node.js • Express.js • PNR API  
 
 #### 🔹 **Chat-DSA** — *AI-powered DSA Teaching Assistant*  
 [🔗 Live Project](https://chatdsa.netlify.app/)  
 - Guides users through **DSA concepts** via logical conversation  
 - Features **chat history**, **state tracking**, and **local storage**  
 - Powered by **Gemini API** and advanced **prompt engineering**  
-- **Tech Stack:** React.js • Gemini API • TailwindCSS
+- **Tech Stack:** React.js • Gemini API • TailwindCSS  
 
 #### 🔹 **E-Library System** — *Smart Library Management Platform*  
-[🔗 Live Project](https://e-library-system.netlify.app/)  
 - Full-stack system with **automated email reminders** for book returns  
 - Built with **React.js + Tailwind CSS** for responsive UI  
-- Backend powered by **Node.js** and **MongoDB**
+- Backend powered by **Node.js** and **MongoDB**  
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements  
 - 📰 Published Research: *Complaint Categorization Using Image Captioning and GenAI* — **ICICC 2025**  
 - 🧠 Solved **500+ DSA problems** on LeetCode  
 - 🥇 Ranked in top **5% of coding contests** on LeetCode  
@@ -98,20 +97,16 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ORNavneetRanjan&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORNavneetRanjan&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ORNavneetRanjan&theme=react" alt="GitHub Streak Stats" />
-</p>
-
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/navneetranjan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
