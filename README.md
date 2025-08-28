@@ -20,6 +20,18 @@
 
 ---
 
+### 💼 Work Experience  
+
+**AI/ML & Full-Stack Developer Intern** — *Edunet Foundation (IBM SkillsBuild)*  
+📍 Remote | 🗓️ **May 2024 – Jul 2024**  
+
+- Developed an **AI-powered complaint management system** (*Rail Madad*) using **Image Captioning + Generative AI**  
+- Integrated **EfficientNet-B0** for computer vision and caption generation  
+- Designed **REST APIs** and a **MongoDB-powered backend** for automated complaint categorization  
+- Built a responsive **frontend** with **React.js + Tailwind CSS**  
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**  
@@ -57,10 +69,10 @@
 ### 🚀 Featured Projects
 
 #### 🔹 **Rail Madad** — *AI-powered Complaint Management Platform*  
-[🔗 Live Project](https://rail-madad.netlify.app/)  
+[🔗 Live Project](https://railsuraksha.netlify.app/)  
 - Built for **Indian Railways** to automate complaint classification  
 - Used **Transformers + EfficientNet-B0** for image captioning  
-- Integrated **Generative AI** for real-time alerting and description refinement  
+- Integrated **Generative AI** for real-time alerting and complaint insights  
 - **Tech Stack:** React.js • Python (ML) • MongoDB • Node.js • Express.js • PNR API
 
 #### 🔹 **Chat-DSA** — *AI-powered DSA Teaching Assistant*  
@@ -71,6 +83,7 @@
 - **Tech Stack:** React.js • Gemini API • TailwindCSS
 
 #### 🔹 **E-Library System** — *Smart Library Management Platform*  
+[🔗 Live Project](https://e-library-system.netlify.app/)  
 - Full-stack system with **automated email reminders** for book returns  
 - Built with **React.js + Tailwind CSS** for responsive UI  
 - Backend powered by **Node.js** and **MongoDB**
@@ -81,15 +94,19 @@
 - 📰 Published Research: *Complaint Categorization Using Image Captioning and GenAI* — **ICICC 2025**  
 - 🧠 Solved **500+ DSA problems** on LeetCode  
 - 🥇 Ranked in top **5% of coding contests** on LeetCode  
-- 🏅 **Dean’s List Award (x2)** for academic excellence
+- 🏅 **Dean’s List Award (x2)** for academic excellence  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streaks  
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ORNavneetRanjan&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORNavneetRanjan&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ORNavneetRanjan&theme=react" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -100,5 +117,5 @@
   <a href="https://www.linkedin.com/in/navneetranjan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:navneet.ranjan274057@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://navneetranjan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/orNavneetRanjan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/NavneetRanjan002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
