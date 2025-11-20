@@ -77,7 +77,7 @@
 ### 💼 Work Experience  
 
 #### **Tech Intern (QA)** — Rakuten India  
-📅 Sep 2025 – Present | 📍 Remote  
+📅 Sep 2025 – Present | 📍 Bengaluru  
 - Automated purchase flows from affiliate click to order ID retrieval using **Selenium, TestNG, and Cucumber**  
 - Performed **sanity testing on 21 APIs**, automated 4 from scratch, enhanced others with edge cases  
 - Resolved **real-time tickets** and improved **affiliate operations**  
